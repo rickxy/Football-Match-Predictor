@@ -37,7 +37,7 @@ attrs==21.2.0
 autobahn==22.1.1
 Automat==20.2.0
 Babel==2.8.0
-backcall==0.2.0
+
 backdoor-factory==0.0.0
 backoff==1.11.1
 base58==1.0.3
