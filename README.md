@@ -4,7 +4,7 @@
 
 This project uses Machine Learning to predict the outcome of a football match when given some stats from half time.
 
-You can check out the demo here: https://football-predictor.projects.aziztitu.com/
+<!-- You can check out the demo here: https://football-predictor.projects.aziztitu.com/ -->
 
 ## Data Source
 
